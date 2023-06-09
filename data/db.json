@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Artikel pertama",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus tenetur error ullam nam fuga doloremque sit earum quaerat quae facilis.",
+      "tags": [
+        "web",
+        "vue",
+        "node"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artikel kedua",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus tenetur error ullam nam fuga doloremque sit earum quaerat quae facilis.",
+      "tags": [
+        "js",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "title": "Artikel ke tiga",
+      "body": "isi dari artikel ke tiga",
+      "tags": [
+        "vue",
+        "firebase"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Artikel ke empat",
+      "body": "isi artikel ke empat",
+      "tags": [
+        "vue",
+        "javascript"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Artikel ke lima",
+      "body": "isi artikel ke lima",
+      "tags": [
+        "vue",
+        "javascript"
+      ],
+      "id": 5
+    },
+    {
+      "title": "efefe",
+      "body": "efefef",
+      "tags": [
+        "efe",
+        "fef",
+        "efef"
+      ],
+      "id": 6
+    }
+  ]
+}
